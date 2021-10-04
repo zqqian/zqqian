@@ -1,4 +1,6 @@
 ### Hi there 👋
+# ZQQ
+- 🔭 I’m a graduate student working on National Astronomical Observatories, Chinese Academy of Sciences
 
 <!--
 **zqqian/zqqian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
