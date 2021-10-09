@@ -4,9 +4,9 @@
 - 🔭 I’m currently working at Chinese Virtual Observatory (China-VO), National Astronomical Observatories, Chinese Academy of Sciences.
 
 ### Research Interests
- -🌌 Virtual Observatory
- -🪐 Astroinformatics
- -⭐ Catalogs Crossmatching
+  -🌌 Virtual Observatory
+  -🪐 Astroinformatics
+  -⭐ Catalogs Crossmatching
 
 ### Skillset
 
