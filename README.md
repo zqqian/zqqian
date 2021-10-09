@@ -1,7 +1,15 @@
 ### Hi there 👋
 # ZQQ
-- 🔭 I’m a graduate student working on National Astronomical Observatories, Chinese Academy of Sciences
+- 🚀 I’m a graduate student of University of Chinese Academy of Sciences.
+- 🔭 I’m currently working on National Astronomical Observatories, Chinese Academy of Sciences.
 
+### Skillset
+
+- 🎛 Programming Language
+  - ✅ Professional: C/C++, Go, Python, PHP.
+    - ⛔ Deprecated: PHP, Visual Basic, EPL. 
+   - ☑ Limited Experience: Lisp, HTML.
+   - 🚫 Against: Java.
 <!--
 **zqqian/zqqian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
