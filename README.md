@@ -11,11 +11,20 @@
 
 ### Skillset
 
-- 🎛 Programming Language
+- Programming Language
   - ✅ Professional: C/C++, Go, Python, PHP.
     - ⛔ Deprecated: PHP, Visual Basic, EPL. 
-   - ☑ Limited Experience: Lisp, HTML.
+   - ☑ Limited Experience: Lisp, HTML, SQL.
    - 🚫 Against: Java.
+- 💻 Computer Science
+  - Algorithm & Data Struct
+  - Computer Network
+  - Linux kernel
+- 🪐 Astronomy & Astrophysics
+  - Galactic Astronomy
+  - Gravitation and Cosmology
+  - Radio Astronomy 
+  - General Relativity
 
 ### Awards
    - Bronze Medal, ACM-ICPC, Aisa Regional Contest, 2018
