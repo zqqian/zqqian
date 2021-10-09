@@ -19,7 +19,7 @@
 - 💻 Computer Science
   - Algorithm & Data Struct
   - Computer Network
-  - Linux kernel
+  - Linux Kernel
 - 🪐 Astronomy & Astrophysics
   - Galactic Astronomy
   - Gravitation and Cosmology
