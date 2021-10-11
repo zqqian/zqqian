@@ -28,7 +28,7 @@
 
 ### Awards
    - Bronze Medal, ACM-ICPC, Aisa Regional Contest, 2018
-   - Sliver Medal, ACM programming contest of Shandong Province, 2019
+   - Silver Medal, ACM College Programming Contest of Shandong Province, 2019
    - Honorable Mention，ACM-ICPC, EC-Final Contest, 2018
    - Top 0.3%, CCF/CSP (Certified Software Professional, China Computer Federation), 2019
    - National First Prize, LanQiao Cup Programming Contest, 2018
