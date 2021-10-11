@@ -1,7 +1,7 @@
 ### Hi there 👋
 # Zhang Qiqian
-- 🚀 I’m a graduate student of School of Astronomy and Space Science, University of Chinese Academy of Sciences.
-- 🔭 I’m currently working at Chinese Virtual Observatory (China-VO), National Astronomical Observatories, Chinese Academy of Sciences.
+- 🚀 I’m a graduate student of School of Astronomy and Space Science, University of Chinese Academy of Sciences (UCAS).
+- 🔭 I’m currently working at Chinese Virtual Observatory (China-VO), National Astronomical Observatories, Chinese Academy of Sciences (NAOC).
 
 ### Research Interests
   - 🌌 Virtual Observatory
